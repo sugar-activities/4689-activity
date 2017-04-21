@@ -1,0 +1,10 @@
+[Activity]
+name = Share Journal Statistics
+activity_version = 1
+license = GPLv3
+bundle_id = org.sugarlabs.ShareStats
+exec = sugar-activity ShareStats.ShareStats
+icon = activity-stats
+show_launcher = yes
+summary = share your Journal statistics
+
